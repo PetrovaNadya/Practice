@@ -1,0 +1,11 @@
+let admin;
+let name; 
+name = "Джон";
+admin = name;
+alert( admin ); 
+
+
+// Earth ; nameUser
+
+// birthday - да, age- тоже можно, но не желательно
+
